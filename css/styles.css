@@ -12,10 +12,14 @@ h1{
     text-align: center;
     font-family: 'Rock Salt', cursive;
     
+    
 }
 
 .btn{
     margin: 80px;
+    
+    -webkit-animation-duration:1s;
+    -webkit-animation-iteration-count: 1;
 }
 
 
