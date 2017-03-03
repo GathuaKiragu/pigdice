@@ -3,28 +3,30 @@
 h1 {
   text-align: center;
   font-size: 64px;
-  color: #10C390;
+  color: #7C077E;
   font-family: 'Abril Fatface', cursive;
 }
 
 h3 {
   margin-top: 15px;
   margin-bottom: 15px;
+    font-family: 'Abril Fatface', cursive;
 }
 
 h5 {
   text-align: center;
   font-size: 24px;
+    font-family: 'Abril Fatface', cursive;
 
 }
 
 .active {
-  border: 2px solid #91989C;
-  color:#545556;
+  border: 2px solid #701D71;
+  color:#701D71;
 }
 
 .active h3 {
-    color: #91989C;
+    color: #701D71;
 }
 
 h3 {
@@ -33,10 +35,11 @@ h3 {
 
 #players {
   text-align: center;
+    padding: 30px;
 }
 
 .container {
-  background: black;
+   background: -webkit-linear-gradient(left, #00c3ff, #ffff1c);
 }
 
 body {
@@ -47,5 +50,8 @@ body {
 }
 
 .btn #roll {
-    background: #5BD3FF;
+    background: #7C077E;
+    padding: 30px;
+    float: center;
+    color: #701D71;
 }
