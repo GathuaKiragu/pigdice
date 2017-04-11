@@ -1,45 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
 
-.head{
--webkit-animation-duration: 1s;
--webkit-animation-delay: 0.8s;
--moz-animation-duration: 1s;
--moz-animation-delay: 0.8s;
--o-animation-duration: 1s;
--o-animation-delay: 0.8s;
-animation-duration: 1s;
-animation-delay: 0.8s;
-}
-
-.logo{
--webkit-animation-duration: 1.15s;
--webkit-animation-delay: 0.3s;
--moz-animation-duration: 1.15s;
--moz-animation-delay: 0.3s;
-
--o-animation-duration: 1.15s;
--o-animation-delay: 0.3s;
-
-animation-duration: 1.15s;
-animation-delay:0.3s;
-
-    
-}
-
-#p1{
--webkit-animation-duration: 1.3s;
--webkit-animation-delay: 1s;
-
--moz-animation-duration: 1.3s;
--moz-animation-delay: 1s;
-
--o-animation-duration: 1.3s;
--o-animation-delay: 1s;
-
-animation-duration: 1.3s;
-animation-delay:1s;
-
-}
 h1 {
   text-align: center;
   font-size: 64px;

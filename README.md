@@ -1,12 +1,12 @@
-#PROJECT TITLE: PIGDICE
+# PROJECT TITLE: PIGDICE
 
 
-##DESCRIPTION
+## DESCRIPTION
 
 The Pig Dice Game is a javascript game whose objective is to score 100 points before your opponent does. The game is played with a single six-sided die. 
 Continue rolling the die until you are happy with the number of points you have scored, and end your turn. If you roll a one, you lose all the points you accumulated during that turn, and you lose your turn.
 
-##PROJECT SETUP
+## PROJECT SETUP
 
 1.First Youll need a text editor
 2.Bootstrap framework to facilitate the better format of the website;
@@ -14,8 +14,8 @@ Continue rolling the die until you are happy with the number of points you have 
 
 
 
-##LINK TO SITE
-[Heres The Link To My Site](https://gathuakiragu.github.io/pigdice)
+## LINK TO SITE
+[Link To PigDice](https://gathuakiragu.github.io/pigdice)
 
 
 
