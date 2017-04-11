@@ -20,7 +20,7 @@ Continue rolling the die until you are happy with the number of points you have 
 
 
 
-##AUTHOR: 
+### AUTHOR: 
 **Brian Gathua**
-###Email: 
+### Email: 
 **gathuakiragu@gmail.com**
